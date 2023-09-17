@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-
+title:
+ image: /assets/images/logo-denic-1.png
+ 
 header:
   image: /assets/images/about-header-1.jpg
 
@@ -62,7 +63,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Nguyen Dang Minh Chau (Denis)"
   avatar : "/assets/images/about-avatar-1.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
