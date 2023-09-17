@@ -4,6 +4,9 @@ title: "About"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about-header-1.jpg
+excerpt: >
+  I am a learner, a runner and a explorer.
+  Reading this page for more understanding about me.<br />
 ---
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
